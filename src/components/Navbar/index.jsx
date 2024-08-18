@@ -18,7 +18,7 @@ import IconButton from "@mui/material/IconButton";
 
 
 const pages = ["Home", "Fitness Partner", "Corporate Partner", "Contact US"];
-const links = ["/", "/fitnesspartner", "/corporatepartner", "/contactus"];
+const links = ["ByteSmithGym/", "/fitnesspartner", "/corporatepartner", "/contactus"];
 const NavBar = () => {
   const navigate = useNavigate();
   const [anchorElNav, setAnchorElNav] = React.useState(null);
