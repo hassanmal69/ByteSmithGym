@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ByteSmithGym/static/css/main.88f7d991.css",
-    "main.js": "/ByteSmithGym/static/js/main.dc4b7a2e.js",
+    "main.js": "/ByteSmithGym/static/js/main.19bb3d40.js",
     "static/media/hero-banner.jpg": "/ByteSmithGym/static/media/hero-banner.af3a4153076aa7578854.jpg",
     "static/media/yoga-3053487_1280.jpg": "/ByteSmithGym/static/media/yoga-3053487_1280.5ea7b9791d146aec634c.jpg",
     "static/media/women.jpg": "/ByteSmithGym/static/media/women.d49fe8c278a5a5a9594a.jpg",
@@ -36,10 +36,10 @@
     "static/media/01.svg": "/ByteSmithGym/static/media/01.15273148c2e798850e22d1310331e1ff.svg",
     "index.html": "/ByteSmithGym/index.html",
     "main.88f7d991.css.map": "/ByteSmithGym/static/css/main.88f7d991.css.map",
-    "main.dc4b7a2e.js.map": "/ByteSmithGym/static/js/main.dc4b7a2e.js.map"
+    "main.19bb3d40.js.map": "/ByteSmithGym/static/js/main.19bb3d40.js.map"
   },
   "entrypoints": [
     "static/css/main.88f7d991.css",
-    "static/js/main.dc4b7a2e.js"
+    "static/js/main.19bb3d40.js"
   ]
 }
